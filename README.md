@@ -40,7 +40,7 @@ Clone or download this repository.
 bash
 
 
-git clone https://github.com/Rajufhh/portfolio-website.git
+git clone https://clinquant-lokum-27523e.netlify.app/
 Navigate to the project directory and open the index.html file in any modern browser.
 Customization
 Logo and Name: Update the <h1 class="logo"> in the header section.
